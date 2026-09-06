@@ -1,10 +1,8 @@
 __pycache__/
 *.py[cod]
-*.spec
+.venv/
+venv/
 build/
 dist/
-.venv/
+*.spec
 .vscode/
-.idea/
-Thumbs.db
-.DS_Store
